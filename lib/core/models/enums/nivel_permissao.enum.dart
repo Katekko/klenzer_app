@@ -1,0 +1,4 @@
+enum NivelPermissao {
+  ADMIN,
+  FUNCIONARIO,
+}
